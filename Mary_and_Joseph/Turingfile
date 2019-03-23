@@ -1,0 +1,14 @@
+[problem]
+title = "Mary and Joseph"
+
+[scoring]
+goals = [
+    "room_zero_made_free",
+    "bijectivity",
+    "all_declared_fixed_points_are_correct",
+    "all_declared_fixed_points_are_different",
+    "declared_fixed_points_for_some_index",
+    "declared_fixed_points_for_every_index",
+    "injectivity",
+    "surjectivity",
+]

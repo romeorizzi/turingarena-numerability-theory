@@ -1,0 +1,17 @@
+function f(n);
+function f_inv(m);
+function fixed_point_num(index);
+
+main {
+    read index;
+    call risp1 = fixed_point_num(index);
+    write risp1;
+    
+    read n;
+    call risp2 = f(n);
+    write risp2;
+
+    read m;
+    call risp3 = f_inv(m);
+    write risp3;
+}

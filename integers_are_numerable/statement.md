@@ -7,7 +7,7 @@ According to Kantor the infinite set of the naturals and the infinite set of the
 In this way, you can numer all the integers as:
 the first integer (the one in 1,1-correspondence with $0$), the second one (the one in 1,1-correspondence with $1$), and so forth, ...
 
-Write a function that given an integers, returns iit position in the above listing.
+Write a function that given an integers, returns its position in the above listing.
 
 Write a function that given a position, returns the integer in that position.
 

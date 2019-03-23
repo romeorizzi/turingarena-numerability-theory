@@ -13,8 +13,11 @@ for _ in range(10):
         ta.goals["correct"] = False
         print(e)
     if z == zz:
-       print(f"Correct! Hai codificato in numero intero {z} nel numero naturale {n} e la tua decodifica ti ha correttamente decodificato {z}")
+       print(f"Correct! Hai codificato in numero intero {z} nel numero naturale {n} e la tua decodifica ti ha correttamente decodificato {n} come {zz}")
     else:
-       print(f"PIas menga! Hai codificato in numero intero {z} nel numero naturale {n} ma poi, mi decodifichi {n} come  {zz}")
+       ta.goals.setdefault("correct", False)
+       print(f"Pias menga! Hai codificato in numero intero {z} nel numero naturale {n} ma poi, mi decodifichi {n} come {zz}, invece che tornarmi in {z}.")
         
 ta.goals.setdefault("correct", True)
+print(ta.goals)
+
