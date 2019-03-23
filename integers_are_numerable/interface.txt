@@ -1,0 +1,12 @@
+function rank(integer_to_be_encoded);
+function unrank(position_in_the_list);
+
+main {
+    read integer_to_be_encoded;
+    call risp1 = rank(integer_to_be_encoded);
+    write risp1;
+
+    read position_in_the_list;
+    call risp2 = unrank(position_in_the_list);
+    write risp2;
+}
