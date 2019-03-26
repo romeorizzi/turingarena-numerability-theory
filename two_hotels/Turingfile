@@ -1,0 +1,8 @@
+[problem]
+title = "Packing the guests of two infinite hotels into just one"
+
+[scoring]
+goals = [
+    "injective_new_room_number",
+    "inverse",
+]
