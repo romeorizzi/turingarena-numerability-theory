@@ -1,0 +1,7 @@
+[problem]
+title = "Strings are numerable"
+
+[scoring]
+goals = [
+    "",
+]

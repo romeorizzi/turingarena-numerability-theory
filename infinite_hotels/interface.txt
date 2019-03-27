@@ -1,0 +1,16 @@
+function new_room_number(n,h);
+function former_hotel(n);
+function former_room(n);
+
+
+main {
+    read n,h;
+    call risp1 = new_room_number(n,h);
+    write risp1;
+    
+    read new_room;
+    call risp2 = former_hotel(new_room);
+    write risp2;
+    call risp3 = former_hotel(new_room);
+    write risp3;
+}

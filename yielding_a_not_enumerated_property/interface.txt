@@ -1,0 +1,10 @@
+function P(n) callbacks {
+   function M(i,n);
+}
+
+main {
+    read n;
+    call res = P(n);
+    write res;
+}    
+

@@ -1,0 +1,12 @@
+function P(n) callbacks {
+   function M(i,n);
+}
+
+main {
+    read max_n;
+    for n to max_n_plus_one {
+        call res = P(n);
+        write res;
+    }
+}    
+

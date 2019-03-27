@@ -1,0 +1,7 @@
+[problem]
+title = "There are wide limits to our ambitions"
+
+[scoring]
+goals = [
+    "correct",
+]
