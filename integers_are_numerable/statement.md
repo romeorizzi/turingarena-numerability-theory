@@ -4,7 +4,7 @@ Every natural number is an integer, but the opposite is not true.
 With this, you might be lead to belive that there are more integer numbers than natural ones.
 However, Cantor tought us that, in a certain sense, this is not that true, after all.
 According to Cantor the infinite set of the naturals and the infinite set of the integers are equicardinal in that there is a 1,1-correspondence between the two.
-In this way, you can nume all the integers as:
+In this way, you can name all the integers as:
 the first integer (the one in 1,1-correspondence with $0$), the second one (the one in 1,1-correspondence with $1$), and so forth, ...
 
 that is, you can (e)numerate the integers one by one.
